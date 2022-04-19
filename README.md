@@ -1,2 +1,2 @@
 # Personal-Software-Portfolio
-This is my personal software portfolio. 
+This is contains the personal software portfolio of Andrew Sean Morris
